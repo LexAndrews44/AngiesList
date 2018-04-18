@@ -1,7 +1,7 @@
 body {
 	font-size: 80%;
 	font-family: Tahoma, sans-serif;
-	background: #39150C url() no-repeat fixed top center;
+	background: green;
 	padding: 0;
 	margin: 0;
 		-webkit-background-size: 100% 100%;
@@ -62,8 +62,8 @@ hr {
  header {
  	padding: 2.5em 0 0.5em;
  	margin: 0 0 2.0em;
- 	background: black;
- background: black url(img/angieslist.png) no-repeat right 0px;
+ 	background: green;
+ 
  }
   header h1 {
  	font-family: "Times New Roman", Times, serif;
@@ -151,9 +151,10 @@ section#sidebar2 {
 	position: relative;
 	display: block;
 	background-color: black;
-	margin: 1.5em 0 3.0em 1.5em;
+	margin:70px;
 	padding: 1.7em 0.5em 2.0em 1.7em;
-	border-left: #2BA967 solid 5px;
+	border-right: #2BA967 solid 5px;
+
 }
 section #main {
 
@@ -163,6 +164,7 @@ section #main {
 	display: inline-block;
 	border-radius: 2em;
 	box-shadow: 1px 1px 5px #777;
+
 }
 section div.panel{
 	float: left;
