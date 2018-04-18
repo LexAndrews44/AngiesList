@@ -1,7 +1,7 @@
 body {
 	font-size: 80%;
 	font-family: Tahoma, sans-serif;
-	background: green;
+	background: #00ff00;
 	padding: 0;
 	margin: 0;
 		-webkit-background-size: 100% 100%;
@@ -11,13 +11,13 @@ body {
 	
 }
 h1{
-	color: #FFD700;
+	color: white;
 	font-size: 2.0em;
 	margin: 0.5em 0 0.5em 0;
 	padding: 0;
 }
 h2{
-	color: red;
+	color: white;
 	font-size: 1.7em;
 	padding: 0px;
 	margin: 0.5em 0 0.35em 0;
@@ -25,7 +25,7 @@ h2{
 p{
 	font-size: 1.2em;
 	line-height: 1.4em;
-	color: 	blue;
+	color: 	black;
 	padding: 0px;
 	margin: 0px 0.5em 0.75em 0px;
 }
@@ -67,7 +67,7 @@ hr {
  }
   header h1 {
  	font-family: "Times New Roman", Times, serif;
- 	color: red;
+ 	color: white;
  	font-size: 7.5em;
  	letter-spacing: -0.025em;
  	margin: 100;
@@ -140,7 +140,7 @@ section#sidebar1 {
 	float: right;
 	position: relative;
 	display: block;
-	background-color: 	black;
+	background-color: 	#6699ff;
 	margin: 1.5em 0 3.0em 1.5em;
 	padding: 1.7em 0.5em 2.0em 1.7em;
 	border-left: #2BA967 solid 5px;
@@ -150,7 +150,7 @@ section#sidebar2 {
 	float: left;
 	position: relative;
 	display: block;
-	background-color: black;
+	background-color: #6699ff;
 	margin:70px;
 	padding: 1.7em 0.5em 2.0em 1.7em;
 	border-right: #2BA967 solid 5px;
